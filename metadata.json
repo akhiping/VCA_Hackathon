@@ -1,0 +1,5 @@
+{
+  "name": "Vibe Code Architect",
+  "description": "A prompt engineering tool for generating high-fidelity architecture refactoring prompts using Gemini.",
+  "requestFramePermissions": []
+}
